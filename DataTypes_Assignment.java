@@ -1,4 +1,4 @@
-package day1DataTypes;
+package Assignments;
 
 public class DataTypes_Assignment {
 
@@ -26,6 +26,17 @@ public class DataTypes_Assignment {
 		int value2=valueint + 5;
 		char value3= (char)(value2);
 		System.out.println(value3);
+		
+		
+		int num=20;
+		
+		for(int fact=1;fact<=num;fact++)
+		{
+			if(num%fact==0)
+			
+			System.out.println(num);
+		}
+		
 	}
 	
 }

@@ -1,4 +1,4 @@
-package day1DataTypes;
+package Assignments;
 
 public class Assignment3 {
 	public static void main (String[] args)
